@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="127c5d00-2451-4dfd-a09c-f86e71ba8fbd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Wechat.jpeg" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -27,6 +27,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore_missing_gitignore": "true",
     "last_opened_file_path": "/home/stary/code/python_project/stary_project/Aliang-CN",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -36,6 +37,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="Aliang-CN" />
@@ -176,7 +182,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726199648420</updated>
       <workItem from="1726199649486" duration="1234000" />
-      <workItem from="1726206295769" duration="305000" />
+      <workItem from="1726206295769" duration="682000" />
     </task>
     <servers />
   </component>
