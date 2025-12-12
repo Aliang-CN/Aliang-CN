@@ -7,7 +7,7 @@
   <a href="linxingliang@163.com"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
  </p>
 
-🎉 Welcome to my Github! I'm **Aliang** 😃, graduate from SCUOT University 🏫.
+🎉 Welcome to my Github! I'm **Aliang** 😃, graduate from SCUT University 🏫.
 Following my passion for programming, I am a **software engineer** who is passionate about Recommendation System, Machine Learning and open-source 🔥. 
 I love to explore and learn about any new things ❤️.
 
