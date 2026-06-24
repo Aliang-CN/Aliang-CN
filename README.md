@@ -12,9 +12,17 @@
   </a>
 </p>
 
-Welcome to my GitHub profile! I'm **Aliang**, a graduate of South China University of Technology (SCUT).
+I'm **Aliang**, a software engineer and a graduate of South China University of Technology (SCUT).
 
-I'm a software engineer interested in recommendation systems, machine learning, and open source. I enjoy exploring new technologies and turning ideas into useful software.
+My interests lie at the intersection of **recommendation systems**, **machine learning**, and **open-source software**. I enjoy exploring new technologies, solving practical problems, and turning ideas into reliable, useful products.
+
+Here you'll find projects, experiments, and notes from what I'm currently building and learning. I'm always happy to connect, exchange ideas, and collaborate on something interesting.
+
+### 🔭 Areas of interest
+
+- Recommendation systems and personalization
+- Machine learning and data-driven applications
+- Open-source tools and engineering practices
 
 ### 📊 Weekly development breakdown
 
